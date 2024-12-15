@@ -1,0 +1,27 @@
+title: RingoDev Blog
+description: >-
+  Hey, my name is Thomas Grininger. I am known as RingoDev in the open source world and I am a security professional
+  interested in the open source security space as well as product development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.ringodev.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+permalink: /:title.html
