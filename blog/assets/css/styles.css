@@ -1,0 +1,95 @@
+/* Reset */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    color: #000;
+}
+
+:root {
+    --beige: #f5f5f5;
+    --yellow: #f3b80f;
+    --blue: #335a6a;
+}
+
+
+body {
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.54;
+    -webkit-overflow-scrolling: touch;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    padding-bottom: 4rem;
+
+    @media (min-width:600px) {
+        font-size: 1.3rem;
+    }
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 60em) { /* 960px */
+    .container {
+        width: 75%;
+        max-width: 60rem;
+    }
+}
+
+nav {
+    display: flex;
+    padding: 1rem 0;
+}
+
+nav a {
+    padding-right: 0.5rem
+}
+
+nav, header {
+    background-color: #f2f4ef;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: var(--yellow);
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 10px 0 20px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+td, th {
+    padding: 0 0.5rem;
+    outline: 0.2rem solid var(--blue);
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+}
+
+.footer{
+    border: 0.5rem solid var(--blue);
+    padding: 1rem;
+    background-color: #f5f5f5;
+}

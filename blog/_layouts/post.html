@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<article>
+    {{ content }}
+</article>
+<div class="footer">
+    {% capture my_include %}{% include post-footer.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+</div>
