@@ -91,5 +91,5 @@ td, th {
 .footer{
     border: 0.5rem solid var(--blue);
     padding: 1rem;
-    background-color: #f5f5f5;
+    background-color: var(--beige);
 }
