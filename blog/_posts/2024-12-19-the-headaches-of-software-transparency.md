@@ -71,7 +71,7 @@ threat landscape.
 These challenges have not gone unnoticed. Both OWASP and OpenSSF are rolling up their sleeves to tackle these issues
 head-on with dedicated working groups and innovative ideas.
 
-The OWASP is brewing up something exciting:
+A working group lead by OWASP is brewing up something exciting:
 the [Transparency Exchange API (TEA) and the Transparency Exchange Identifier (TEI)](https://github.com/CycloneDX/transparency-exchange-api)
 {:target="_blank"}. Picture it as unique code such as GTIN, UPC or EAN for every shipped software product that allows to
 discover a standardized API for transparency data, designed to streamline how artifacts like SBOM or VEX documents are
