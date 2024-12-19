@@ -15,9 +15,9 @@ of the main reasons why the software supply chain has become a prime target for 
 
 And the stakes? They’re massive. A single breach can ripple through hundreds of organizations, leaving a trail of
 compromised systems and breached data in its wake. Take
-the [SolarWinds attack](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2021/the-threat/solarwinds)
-{:target="_blank"}, a cyber-espionage campaign so brazen it made global headlines. Attackers slipped malicious code into
-routine software updates, creating a backdoor that infiltrated thousands of customers government agencies included.
+the [SolarWinds attack](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2021/the-threat/solarwinds){:target="_
+blank"}, a cyber-espionage campaign so brazen it made global headlines. Attackers slipped malicious code into routine
+software updates, creating a backdoor that infiltrated thousands of customers government agencies included.
 
 Such incidents aren’t just cautionary tales; they’re road signs screaming _Danger Ahead_. They highlight a harsh
 reality:
