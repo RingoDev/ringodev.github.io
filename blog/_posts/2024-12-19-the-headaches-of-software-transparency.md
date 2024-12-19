@@ -95,5 +95,5 @@ we get a grip as an industry on software supply chain security.
 
 ---
 
-Stay tuned for the next post where I'll go down the rabbit hole of the current state VEX adoption by open-source
+Stay tuned for the next post where I'll go down the rabbit hole of the current state of VEX adoption by open-source
 security tooling and where it can bring value **today**.
