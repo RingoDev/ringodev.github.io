@@ -3,9 +3,9 @@ title: "The headaches of software transparency"
 ---
 
 When non-techies hear the term supply chain, they might think of factories, logistics hubs, or shipping containers. But
-in the world of software, the supply chain looks entirely different—and far more invisible. It’s a web of interconnected
-components, dependencies, and libraries sourced from an array of open-source contributors, many of whom are unknown to
-the end user.
+in the world of software, the supply chain looks entirely different and is far more invisible. It’s a web of
+interconnected components, dependencies, and libraries sourced from an array of open-source contributors, many of whom
+are unknown to the end user.
 
 While this model that is built on largely unpaid labor has revolutionized how we build software, it has also opened a
 Pandora’s box of security risks. According to Sonatype’s 2024 report on
