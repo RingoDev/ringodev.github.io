@@ -8,6 +8,7 @@ url: "https://blog.ringodev.com" # the base hostname & protocol for your site, e
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   posts:
