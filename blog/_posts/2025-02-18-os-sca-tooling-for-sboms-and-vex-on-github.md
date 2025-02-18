@@ -42,8 +42,8 @@ burden to find and provide a VEX file to a scanner is still on the consumer, rat
 
 ## Contributing to Trivy
 
-To address this gap, I decided to [contribute to Trivy](https://github.com/aquasecurity/trivy/pull/8254) by adding the
-capability to resolve external references from CycloneDX SBOMs. This enhancement enables Trivy to fetch relevant VEX
+To address this gap, I decided to [contribute to Trivy](https://github.com/aquasecurity/trivy/pull/8254){:target="_blank"}
+by adding the capability to resolve external references from CycloneDX SBOMs. This enhancement enables Trivy to fetch relevant VEX
 data dynamically from locations specified by the SBOM creator, moving towards end-to-end automation across ecosystems.
 
 While this is a step forward, Trivy still requires an explicit SBOM scan and does not yet seem to be able to resolve
@@ -59,6 +59,6 @@ we can push the ecosystem forward towards a more automated and scalable approach
 ## PS: Random Insights from My Search
 
 One surprising discovery was that the term "**VEX**" is also used in video production,
-particularly in the [Houdini](https://www.sidefx.com/docs/houdini/index.html) project. 
+particularly in the [Houdini](https://www.sidefx.com/docs/houdini/index.html) project.
 
 I love learning new stuff every day!
