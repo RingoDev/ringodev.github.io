@@ -63,6 +63,10 @@ p {
     margin: 10px 0 20px;
 }
 
+p > img {
+    max-width: 100%;
+}
+
 table {
     width: 100%;
     text-align: center;
