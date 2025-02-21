@@ -2,10 +2,8 @@
 title: "Version Ranges and OS Contributions"
 ---
 
-# Exploring VERS for Version Range Matching in VEX Statements
-
-With the research I've been doing on and off over the past few months on the Vulnerability Exploitability eXchange
-(VEX), I took a deep dive into how it's possible to declare statements for any software component. For example, if a
+With the research I've been doing on and off over the past few months on the [Vulnerability Exploitability eXchange
+(VEX)](./2025-02-18-os-sca-tooling-for-sboms-and-vex-on-github), I took a deep dive into how it's possible to declare statements for any software component. For example, if a
 product is *not affected* by a certain vulnerability, you probably want to communicate this to your customer, but don't
 want to manage a long list of all the potential product versions you have out their in the wild. This is why you likely
 want to apply that statement only to a specific set of versions of your shipped product.
